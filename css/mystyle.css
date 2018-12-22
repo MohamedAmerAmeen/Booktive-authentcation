@@ -1,0 +1,31 @@
+html, body
+{
+    background-color: white;
+      height: 100%;
+    padding: 0;
+    margin: 0;
+
+}
+label
+{
+    float: left;
+    color: #6587A7;
+}
+.title
+{
+    color: #4296CB;
+    font-family: Comic Sans MS;
+}
+
+.col-md-6
+{
+    background-color: #6587A7;
+    height: 100%;
+}
+.btn
+{
+    overflow: hidden;
+    width: 100%;
+    background-color: #6587A7; 
+    color: white;
+}
